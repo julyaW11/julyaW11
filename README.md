@@ -3,10 +3,10 @@
 <h1 align="center">Olá, eu sou a Julia 👋</h1>
 
 <p align="center">
-  <a href="SEU_LINKEDIN">
+  <a href="[https://www.linkedin.com/in/julia-maria-cardoso]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:julyacomp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -15,10 +15,10 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou estudante de Engenharia da Computação, com uma trajetória explorando diversas áreas da tecnologia até encontrar minhas maiores paixões: **Dados e Machine Learning**.
+Sou estudante de Engenharia da Computação cuja minhas maiores paixões são: **Dados, Machine Learning e Eletrônica**.
 
-Atualmente atuo como **Machine Learning Engineer**, com experiência prévia como analista de dados — o que me dá uma visão completa do ciclo de dados, da coleta à modelagem.
-
+Atualmente atuo como **Machine Learning Engineer**, com experiência prévia como analista de dados. 
+Também faço parte da equipe de robótica Caatronics, atuando no setor de Eletrônica e Controle. Lido diretamente com **componentes eletrônicos e sistemas de controle**.
 ---
 
 ## 🧠 Interesses e Atuação
@@ -27,8 +27,6 @@ Atualmente atuo como **Machine Learning Engineer**, com experiência prévia com
 * 📊 Análise e Visualização de Dados
 * ⚙️ Robótica (Eletrônica e Controle)
 * 🔌 Desenvolvimento de circuitos e placas eletrônicas
-
-Também faço parte de uma equipe de robótica, atuando diretamente com **componentes eletrônicos e sistemas de controle**.
 
 ---
 
@@ -52,7 +50,7 @@ Também faço parte de uma equipe de robótica, atuando diretamente com **compon
 ## 💡 Sobre mim (além do código)
 
 Sou uma curiosa patológica — gosto de entender como o mundo funciona. Entre algoritmos, dados e circuitos eletrônicos, 
-essa curiosidade me levou a transitar por diferentes áreas até construir uma base sólida e multidisciplinar em tecnologia.
+essa curiosidade foi o que me levou a transitar por diferentes áreas e construir uma base de conhecimento multidisciplinar em tecnologia.
 
 ---
 
