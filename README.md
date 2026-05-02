@@ -19,6 +19,7 @@ Sou estudante de Engenharia da Computação cuja minhas maiores paixões são: *
 
 Atualmente atuo como **Machine Learning Engineer**, com experiência prévia como analista de dados. 
 Também faço parte da equipe de robótica Caatronics, atuando no setor de Eletrônica e Controle. Lido diretamente com **componentes eletrônicos e sistemas de controle**.
+
 ---
 
 ## 🧠 Interesses e Atuação
