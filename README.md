@@ -43,6 +43,7 @@ Também faço parte da equipe de robótica Caatronics, atuando no setor de Eletr
 * WSL / Linux
 * Git & GitHub
 * Metodologias Ágeis (Scrum)
+* Autodesk Fusion
 
 
 
