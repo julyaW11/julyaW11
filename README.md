@@ -56,6 +56,7 @@ A experiência como analista de dados contribuiu para que eu tivesse uma ótima 
 
 ## 💡 Sobre mim (além do código)
 
+
 Sou uma curiosa patológica, gosto de entender como o mundo funciona e sempre estarei me busca de mais conhecimento. 
 ---
 
