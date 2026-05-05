@@ -15,8 +15,15 @@
 
 Sou estudante de Engenharia da Computação cuja minhas maiores paixões são: **Dados, Machine Learning e Eletrônica**.
 
-Atualmente atuo como **Machine Learning Engineer**, com experiência prévia como analista de dados. 
-Também faço parte da equipe de robótica Caatronics, atuando no setor de Eletrônica e Controle. Lido diretamente com **componentes eletrônicos e sistemas de controle**.
+Atualmente atuo como **Machine Learning Engineer**, com experiência prévia como **Data Analyst**. 
+
+Como Analista de Dados, criei dashboards que ajudaram com diagnósticos e tomadas de decisões financeiras, participei ativamente de modelagem de bancos de dados e de suas implementações. Para além disto, tive a oportunidade de aplicar NLP (Natural Language Processing) em conversas de WhatsApp entre clientes e vendedores da instituição, o que trouxe a possibilidade de determinar quais comportamentos feitos pela equipe corroboraram com o sucesso de vendas. Lidei também com chatbots para auemntar a produtividade do setor comercial.
+
+Como Engenheria de Machine Learning, faço agentes adpatados à necessidade de cada contrante.  
+
+Desde 2024 faço parte da equipe de robótica Caatronics, atuando no setor de Eletrônica e Controle. Lido diretamente com **componentes eletrônicos, sistemas de controle e desenho de placas de eletrônica**.   
+
+A experiência como analista de dados contribuiu para que eu tivesse uma ótima consciência quando preciso lidar com dados na construção de um agente de ML, por conta disto, irei fazer especialização na área de Ciência de Dados. 
 
 ---
 
@@ -49,8 +56,6 @@ Também faço parte da equipe de robótica Caatronics, atuando no setor de Eletr
 
 ## 💡 Sobre mim (além do código)
 
-Sou uma curiosa patológica — gosto de entender como o mundo funciona. Entre algoritmos, dados e circuitos eletrônicos, 
-essa curiosidade foi o que me levou a transitar por diferentes áreas e construir uma base de conhecimento multidisciplinar em tecnologia.
-
+Sou uma curiosa patológica, gosto de entender como o mundo funciona e sempre estarei me busca de mais conhecimento. 
 ---
 
