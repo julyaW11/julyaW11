@@ -17,8 +17,7 @@ Sou estudante de Engenharia da Computação cuja minhas maiores paixões são: *
 
 Atualmente atuo como **Machine Learning Engineer**, com experiência prévia como **Data Analyst**. 
 
-Como Analista de Dados, criei dashboards que ajudaram com diagnósticos e tomadas de decisões financeiras, participei ativamente de modelagem de bancos de dados e de suas implementações. Para além disto, tive a oportunidade de aplicar NLP (Natural Language Processing) em conversas de WhatsApp entre clientes e vendedores da instituição, o que trouxe a possibilidade de determinar quais comportamentos feitos pela equipe corroboraram com o sucesso de vendas. Lidei também com chatbots para auemntar a produtividade do setor comercial.
-
+Como Analista de Dados, criei dashboards,  participei ativamente de modelagem de bancos de dados e de suas implementações, também tive a oportunidade de estudar e  aplicar NLP (Natural Language Processing) em conversas de WhatsApps. 
 Como Engenheria de Machine Learning, faço agentes adpatados à necessidade de cada contrante.  
 
 Desde 2024 faço parte da equipe de robótica Caatronics, atuando no setor de Eletrônica e Controle. Lido diretamente com **componentes eletrônicos, sistemas de controle e desenho de placas de eletrônica**.   
