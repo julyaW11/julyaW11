@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Julia 👋</h1>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/julia-maria-cardoso]">
+  <a href="https://www.linkedin.com/in/julia-maria-cardoso">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:julyacomp@gmail.com">
