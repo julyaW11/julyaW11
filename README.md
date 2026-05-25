@@ -17,7 +17,7 @@ Sou estudante de Engenharia da Computação cuja minhas maiores paixões são: *
 
 Atualmente atuo como **Machine Learning Engineer**, com experiência prévia como **Data Analyst**. 
 
-Na univsersidade particpei em PETS de Chatbots, Engenharia de Software para Aplicativos de Saúde e fui Bolsista do CNPq onde lidei com Rede Neural de Visão Computacional usada para contar moscas da fruta em foto, projeto do Agrolabs. 
+Na universidade particpei em PETS de Chatbots, Engenharia de Software para Aplicativos de Saúde e fui Bolsista do CNPq onde lidei com Rede Neural de Visão Computacional usada para contar moscas da fruta em foto, projeto do Agrolabs. 
 
 Como Analista de Dados, criei dashboards,  participei ativamente de modelagem de bancos de dados e de suas implementações, também tive a oportunidade de estudar e  aplicar NLP (Natural Language Processing) em conversas de WhatsApps. 
 Como Engenheria de Machine Learning, faço agentes adpatados à necessidade de cada contrante.  
